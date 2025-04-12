@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AssignmentProject</string>
+    <string name="default_web_client_id">161816329772-cqk0bgjknif0i531ec2nv80ru2nl1drq.apps.googleusercontent.com</string>
+    <string name="_4_room_db_implementation">4. Room DB Implementation</string>
+    <string name="_3_image_capture_gallery_selection"><![CDATA[3. Image Capture & Gallery Selection]]></string>
+    <string name="_1_user_authentication">1. User Authentication</string>
+    <string name="_2_report_pdf_viewer">2. Report (PDF Viewer)</string>
+    <string name="url">https://fssservices.bookxpert.co/GeneratedPDF/Companies/nadc/2024-2025/BalanceSheet.pdf</string>
+
+</resources>
